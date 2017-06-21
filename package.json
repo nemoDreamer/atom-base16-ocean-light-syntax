@@ -1,7 +1,7 @@
 {
   "name": "base16-ocean-light-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Base16 Ocean Light syntax theme for Atom.",
   "repository": "https://github.com/nemoDreamer/atom-base16-ocean-light-syntax",
   "license": "MIT",
